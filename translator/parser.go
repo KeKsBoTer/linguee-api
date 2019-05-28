@@ -8,8 +8,6 @@ import (
 	"net/http"
 	"strconv"
 	"strings"
-
-	"golang.org/x/net/html"
 	xmlpath "gopkg.in/xmlpath.v2"
 )
 

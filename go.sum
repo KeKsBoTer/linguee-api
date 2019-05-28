@@ -1,0 +1,12 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/imankulov/linguee-api v0.0.0-20170117102433-4d052a6db650 h1:LEKMaY0/HlV6KgLoxxSaTGPfpLxm81UoRcIGU4gXeRo=
+github.com/imankulov/linguee-api v0.0.0-20170117102433-4d052a6db650/go.mod h1:Wa4kkuXupPc+YUadidGhoAqIpilM4LE4jtL+a+/Zbt8=
+github.com/keksboter/linguee-api v0.0.0-20170117102433-4d052a6db650 h1:xBhP+w9MX6Msfhxl4GScI0PNgIZkJdbXSjGe+xUY21k=
+github.com/keksboter/linguee-api v0.0.0-20170117102433-4d052a6db650/go.mod h1:s3E/gKJIlXWh0/Fx/GgRknL7dNAolTvSYwQ0BIZiZUQ=
+github.com/lib/pq v0.0.0-20161103024354-d8eeeb8bae88 h1:H9VJjFCpY9dwA9RdOHAyAR2nRRksPoLSPzEXUUjm86Y=
+github.com/lib/pq v0.0.0-20161103024354-d8eeeb8bae88/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/testify v0.0.0-20161117074351-18a02ba4a312 h1:UsFdQ3ZmlzS0BqZYGxvYaXvFGUbCmPGy8DM7qWJJiIQ=
+github.com/stretchr/testify v0.0.0-20161117074351-18a02ba4a312/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=

@@ -8,9 +8,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/imankulov/linguee-api/cache"
-
-	"golang.org/x/net/html/charset"
+	"github.com/keksboter/linguee-api/cache"
 )
 
 func downloadURL(cache cache.Cache, userAgent string, url string) (io.Reader, error) {

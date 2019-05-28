@@ -7,11 +7,11 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/imankulov/linguee-api/cache"
+	"github.com/keksboter/linguee-api/cache"
 )
 
 // User-Agent string, where %s is replaced with the service name
-var userAgentTemplate = "Linguee API proxy at %s (https://github.com/imankulov/linguee-api)"
+var userAgentTemplate = "Linguee API proxy at %s (https://github.com/keksboter/linguee-api)"
 
 // lang codes supported by Linguee
 var validCodes = map[string]string{

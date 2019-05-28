@@ -8,14 +8,14 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/imankulov/linguee-api/cache"
-	"github.com/imankulov/linguee-api/translator"
+	"github.com/keksboter/linguee-api/cache"
+	"github.com/keksboter/linguee-api/translator"
 )
 
 var c cache.Cache
 
 func redirect(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://github.com/imankulov/linguee-api", http.StatusFound)
+	http.Redirect(w, r, "https://github.com/keksboter/linguee-api", http.StatusFound)
 }
 
 func api(w http.ResponseWriter, r *http.Request) {
